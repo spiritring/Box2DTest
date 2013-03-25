@@ -36,6 +36,7 @@
         engineDir:'../cocos2d/',
         //SingleEngineFile:'',
         appFiles:[
+            '../box2d/box2d.js',
             'src/resource.js',
             'src/myApp.js'//add your own files in order here
         ]
